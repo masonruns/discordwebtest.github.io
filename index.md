@@ -7,6 +7,7 @@
 	<link href="assets/css/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
+	<h1>Testing Purposes</h1>
     <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
     <!--<script type="text/javascript">
         $(document).ready(function(){
